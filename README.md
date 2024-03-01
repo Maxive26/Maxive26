@@ -7,6 +7,14 @@ Hello, I'm Maximiliano Vera!
 
 <hr>
 
+<pre>
+💻 Learning web development, with a focus on JavaScript frameworks like React.js.
+📚 Studying Systems Engineering, delving into algorithms and data structures.
+🌱 Constantly learning and adapting to new technologies and methodologies.
+🌟 Main languages: Javascript, Python, Html, Css
+
+</pre>
+
 
 <!--
 **Maxive26/Maxive26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
