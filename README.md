@@ -7,7 +7,7 @@ Hello, I'm Maximiliano Vera!
 
 <hr>
 <h1>About Me! 😎</h1>
-<br>
+
 
 <pre>
 💻 Learning web development, with a focus on JavaScript frameworks like React.js.
