@@ -12,7 +12,7 @@ Hello, I'm Maximiliano Vera!
 📚 Studying Systems Engineering, delving into algorithms and data structures.
 🌱 Constantly learning and adapting to new technologies and methodologies.
 🌟 Main languages: Javascript, Python, Html, Css
-
+📫 Email me at vera.maxi2002@gmail.com
 </pre>
 
 
