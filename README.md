@@ -5,7 +5,7 @@ Hello, I'm Maximiliano Vera!
 	</a>
 </h1>
 
-<hr>
+
 <h1>About Me! 😎</h1>
 
 
