@@ -6,7 +6,7 @@ Hello, I'm Maximiliano Vera!
 </h1>
 
 
-<h1>About Me! 😎</h1>
+<h2>About Me! 😎</h2>
 
 
 <pre>
