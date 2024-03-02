@@ -6,7 +6,7 @@ Hello, I'm Maximiliano Vera!
 </h1>
 
 
-<h2>About Me! 😎</h2>
+<h1>About Me! 😎</h1>
 
 
 <pre>
@@ -15,6 +15,7 @@ Hello, I'm Maximiliano Vera!
 🌱 Constantly learning and adapting to new technologies and methodologies.
 🌟 Main languages: Javascript, Python, Html, Css
 📫 Email me at vera.maxi2002@gmail.com
+🌍 I am from Argentina 🇦🇷
 </pre>
 
 
